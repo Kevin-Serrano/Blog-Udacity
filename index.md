@@ -7,7 +7,11 @@ Este es un pequeño análisis de [Encuesta anual para desarrolladores de Stack O
 Esta encuesta tiene mucho tema que explotar, las opiniones e intereses de los desarrolladores pueden generar tendencias para su análisis. En este blog solo se toman 3 preguntas como un pequeño ejemplo de que podria estudiarse. 
 * **¿Que países han tenido mayor aumento en la ultima encuesta?**
 * **¿cual es el nivel de educación que tiene el peor y cual el mejor porcentaje de empleo ?**
-* **poder dislumbrar la tendencia en el lenguaje mas deseado de aprender ** 
+* **poder dislumbrar la tendencia en el lenguaje mas deseado de aprender** 
+
+Para poder desarrollar las preguntas, veamos algunos resultados que podrán generar conclusiones tangibles.
+
+
 
 ```markdown
 Syntax highlighted code block

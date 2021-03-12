@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Análisis descriptivo de encuesta anual para desarrolladores de Stack Overflow
 
-You can use the [editor on GitHub](https://github.com/gehick/Blog-Udacity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este es un pequeño análisis de [Encuesta anual para desarrolladores de Stack Overflow](https://insights.stackoverflow.com/survey).
 
 ### Markdown
 

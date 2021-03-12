@@ -37,3 +37,14 @@ Para poder obtener una tabla qeu sea útil a la pregunta, debemos cruzar con la 
 
 ![imagen6](imagen6.PNG)
 
+Se ve que el porcentaje mas alto en empleados y desempleados es el bachillerato, posible resultado por la cantidad de participantes de este segmento. Sin embargo, se denota que la participación de un master es alta en empleados, y cursos sin terminar o aun en estudios tienen el mayor porcentaje en desempleados.
+
+### Dislumbrar la tendencia en el lenguaje mas deseado de aprender
+
+Si se quiere replicar este ejercicio, se debe tener cuidado con la variables a estudiar, ya que la respuesta viene unida con caracteres de punto y coma. Después de lograr esa separación, recordando que este ejercicio se hace con los últimos 3 años de estudio, obtenemos:
+
+![imagen8](imagen8.PNG)
+
+![imagen7](imagen7.PNG)
+
+Con esto, podemos ver que JavaScript y python estan liderando los lenguajes con deseo de aprendizaje.

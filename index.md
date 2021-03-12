@@ -31,3 +31,9 @@ Para este item, se unieron las respuestas desde el año2017 al 2020, ya que en l
 
 ![imagen4](imagen4.PNG)
 
+Para poder obtener una tabla qeu sea útil a la pregunta, debemos cruzar con la tipologia que nos itneresa, la de empleado y desempleado, asi:
+
+![imagen5](imagen5.PNG)
+
+![imagen6](imagen6.PNG)
+

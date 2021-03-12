@@ -1,10 +1,10 @@
 ## Análisis descriptivo de encuesta anual para desarrolladores de Stack Overflow
 
-Este es un pequeño análisis de [Encuesta anual para desarrolladores de Stack Overflow](https://insights.stackoverflow.com/survey).
+Este es un pequeño análisis de [Encuesta anual para desarrolladores de Stack Overflow](https://insights.stackoverflow.com/survey), la cual se aplica a mas de  180 países, con el tema centrado en la situación de los desarrolladores, satisfacción, intereses y opiniones.
 
-### Markdown
+### Los posibles tópicos de la encuesta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Esta encuesta
 
 ```markdown
 Syntax highlighted code block

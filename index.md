@@ -15,3 +15,6 @@ Para poder desarrollar las preguntas, veamos algunos resultados que podrán gene
 
 Para este item, unimos las respuestas a la encuesta desde el año 2013 al 2020. Resultando en una base con _403.094_ registros, siendo ya una bateria de información de un buen tamaño.
 ![imagen1](imagen1.png)
+
+Aunque es claro quienes dominan la opinion en esta encuesta, veamos cuales fueron los paises que aceleraron en este ultimo año:
+![imagen2](imagen2.PNG)

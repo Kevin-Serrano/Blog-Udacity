@@ -11,32 +11,7 @@ Esta encuesta tiene mucho tema que explotar, las opiniones e intereses de los de
 
 Para poder desarrollar las preguntas, veamos algunos resultados que podrán generar conclusiones tangibles.
 
+### ¿Que países han tenido mayor aumento en la ultima encuesta?
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gehick/Blog-Udacity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para este item, unimos las respuestas a la encuesta desde el año 2013 al 2020. Resultando en una base con _403.094_ registros, siendo ya una bateria de información de un buen tamaño.
+![imagen1](imagen1.png)
